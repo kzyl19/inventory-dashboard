@@ -1,0 +1,13 @@
+{
+  "name": "inventory-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard application with CRUD functionality (Express.js + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "express": "^4.21.1"
+  }
+}
